@@ -8,4 +8,6 @@ import com.github.mzule.activityrouter.annotation.Modules;
  */
 @Module("moduleA")
 public class ModuleA {
+
+
 }
